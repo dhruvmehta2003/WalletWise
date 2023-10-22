@@ -13,4 +13,4 @@ npm start
 npm run build
 ```
 
-# WalletWise
+# WalletWise - https://wallet-wise.netlify.app/
